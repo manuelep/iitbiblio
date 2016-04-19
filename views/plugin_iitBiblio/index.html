@@ -1,0 +1,6 @@
+{{extend 'layout.html'}}
+<h2>{{=T("Filter form")}}</h2>
+{{=form}}
+<h2>{{=T("Results")}}</h2>
+{{=LOAD("default", "call", args=("run", "iitws",), vars=request.vars, ajax=True)}}
+{{#=BEAUTIFY(response._vars)}}
