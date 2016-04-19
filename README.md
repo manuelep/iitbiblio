@@ -21,3 +21,7 @@
     python web2py
 
 * Visit the url http://localhost:8000/iitbiblio, you'll be directly redirected to the desidered page with the form you can use to query the IIT publications [web service](http://backend.publications.iit.it/api/publications/getMatchingOnesAsJsonData).
+
+## Demo site
+
+http://web2py-manuele.rhcloud.com/iitbiblio/plugin_iitBiblio/index
