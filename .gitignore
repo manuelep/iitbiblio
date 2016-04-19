@@ -87,10 +87,12 @@ ENV/
 # Rope project settings
 .ropeproject
 
+# Backup files
+*.bak
+
 # for web2py
 cache
 databases
 errors
 sessions
 
-plugin_*
