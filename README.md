@@ -10,7 +10,7 @@
 
 * Clone the project
 
-    git clone 
+    git clone https://github.com/manuelep/iitbiblio.git
 
 * Go back to main framework folder (*path/to/web2py*)
 
